@@ -1,12 +1,4 @@
-# 🎯 Striver A2Z DSA Sheet — Complete Interview Guide (Java)
 
-## 📚 About This Guide
-This guide covers all **468 problems** from the Striver A2Z DSA Sheet with:
-- Deep intuition and real-life analogies
-- Java code (Brute → Better → Optimal)
-- Detailed dry runs
-- Interview tips and common mistakes
-- LeetCode / GFG links
 
 ## 📁 Folder Structure
 | Folder | Topics | Problems |
